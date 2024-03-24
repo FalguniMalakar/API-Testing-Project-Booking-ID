@@ -21,6 +21,9 @@ Verifydeletebooking(DELETE)
 
 **Create_Booking:**
 Create Booking is typically used to send a POST request to a server to create a new booking or reservation. This POST request includes the necessary data (such as guest details, room type, dates, etc.) in the request body, allowing the server to process and create a new booking entry in its database.
+![1](https://github.com/FalguniMalakar/API-Testing-Project-Booking-ID/assets/153453822/502a2841-5e96-4269-a81a-0c46a39ec82e)
+![2](https://github.com/FalguniMalakar/API-Testing-Project-Booking-ID/assets/153453822/99acec72-a449-4a4f-9aca-6a800a725e1c)
+![3](https://github.com/FalguniMalakar/API-Testing-Project-Booking-ID/assets/153453822/6487153a-cdd6-4143-9674-7c9d7aa6f6e4)
 
 **Get_Booking:**
 In Postman, a GET method is used to retrieve data from a server or API endpoint. It fetches information from the server without modifying anything, allowing users to view or read data such as user profiles, product listings, or any other resource available on the server.
