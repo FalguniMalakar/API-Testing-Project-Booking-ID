@@ -1,0 +1,5 @@
+newman run ApiTestingProject.postman_collection.json -e ApiTestingProject.postman_environment.json
+
+newman run ApiTestingProject.postman_collection.json -e ApiTestingProject.postman_environment.json -r cli,html
+
+newman run ApiTestingProject.postman_collection.json -e ApiTestingProject.postman_environment.json -r cli,htmlextra
