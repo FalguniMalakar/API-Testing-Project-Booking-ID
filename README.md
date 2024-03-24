@@ -42,9 +42,11 @@ Verify delete method" is typically used to confirm the successful deletion of a 
 
 **Postman_Environment:**
 Environment is used to store and manage variables that can be used across requests in a collection. It allows users to define values such as URLs, API keys, and authentication tokens once and use them dynamically in multiple requests, making it easier to manage and maintain API tests and configurations.
+![en](https://github.com/FalguniMalakar/API-Testing-Project-Booking-ID/assets/153453822/128774ba-8333-44d3-aa10-8ee4459d6043)
 
 **Newman_Report:**
 Newman report" feature is used to generate detailed test reports for API collections run using the Newman command-line tool. It provides a summary of test results, including pass/fail statuses, response times, and error details, allowing users to analyze and share test results with team members or stakeholders.
+![nr](https://github.com/FalguniMalakar/API-Testing-Project-Booking-ID/assets/153453822/e6d12988-ba21-4d60-99af-e7423bbe0bec)
 
 **Newman_RunCommand:**
 Newman Run Command is used to execute API collections from the command line using the Newman tool. It allows users to automate the execution of tests, run them in CMD pipelines, and generate detailed reports, enhancing the efficiency and scalability of API testing processes.
