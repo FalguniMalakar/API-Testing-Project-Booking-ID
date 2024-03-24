@@ -59,6 +59,8 @@ Newman report" feature is used to generate detailed test reports for API collect
 
 **Newman_RunCommand:**
 Newman Run Command is used to execute API collections from the command line using the Newman tool. It allows users to automate the execution of tests, run them in CMD pipelines, and generate detailed reports, enhancing the efficiency and scalability of API testing processes.
+![Capture](https://github.com/FalguniMalakar/API-Testing-Project-Booking-ID/assets/153453822/6e63d688-88ee-45cf-91fc-3bcacf79e06a)
 
 **Data.csv:**
 Data.csv File is used to demonstrate and test API requests and responses involving CSV (Comma-Separated Values) data format. It allows users to import CSV files, use the data in requests, and test how the API handles CSV data, providing a practical example for working with CSV-based APIs.This file (if applicable) contains sample data used during testing, connected to the environment using variables.
+![Cg](https://github.com/FalguniMalakar/API-Testing-Project-Booking-ID/assets/153453822/9df85e00-a7f9-4ff5-8ac5-e7a3ea3d6e23)
